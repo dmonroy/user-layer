@@ -1,0 +1,26 @@
+{
+  "name": "user-layer",
+  "version": "0.1.0",
+  "description": "Reusable UI components for REST-backed applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmonroy/user-layer.git"
+  },
+  "keywords": [
+    "react",
+    "rest",
+    "api",
+    "user",
+    "interface"
+  ],
+  "author": "Darwin Monroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmonroy/user-layer/issues"
+  },
+  "homepage": "https://github.com/dmonroy/user-layer#readme"
+}
