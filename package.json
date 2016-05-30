@@ -17,7 +17,7 @@
     "user",
     "interface"
   ],
-  "author": "Darwin Monroy",
+  "author": "Darwin Monroy <contact@darwinmonroy.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dmonroy/user-layer/issues"
